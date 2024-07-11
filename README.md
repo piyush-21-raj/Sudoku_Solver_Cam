@@ -13,7 +13,7 @@ This project can divided into **3 major tasks**:
   * train a CNN classifier to **idetify digits** with reasonable speed and accuracy
   * pass each box image and **re-construct the puzzle** locally in arrays
   * use a **backtracking** algorithm to return the solved puzzle
- 
- - Stage 3: **DISPLAY**
+
+- Stage 3: **DISPLAY**
   * use the solved array to **fill the empty boxes** in the extracted puzzle image
   * **warp the extracted image back onto the video feed** for a live display of the solution
