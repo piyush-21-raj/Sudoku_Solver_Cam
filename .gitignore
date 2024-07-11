@@ -1,0 +1,6 @@
+sudoku_solver.cpp
+sudoku_solver.py
+*.log
+test_imgs/
+solver/
+*.vscode
